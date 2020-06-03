@@ -34,7 +34,12 @@ body {
 }
 
 ol, ul {
+	padding: 0;
+	margin: 0; 
 	list-style: none;
+	text-align: left;
+	
+	
 }
 
 blockquote, q {
